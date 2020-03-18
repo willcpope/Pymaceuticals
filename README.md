@@ -23,3 +23,14 @@ In this study, 250 mice identified with SCC tumor growth were treated through a 
 * Generated a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+
+## Observations and Insights
+* The four most promising treatment regimes are: Capomulin, Ceftamin, Infubinol and Ramicane.
+
+* Among the most promising treatment regimens, Capmulin and Ramicane are most effective having a lower tumor volume and no outliers.
+
+* Among the most promising treatment regimens, Ceftamin and Infubinol contain a higher tumor volume as well as outliers.
+
+* Among the most promising treatment regimens, gender has no impact on the results.
+
+* Based on the data, there is a correlation between mouse weight and tumor volume.
